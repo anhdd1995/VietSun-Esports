@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/VietSun_Esports">
+  <Environment name="local" type="java.lang.String" value="ANHDDPC\\SQLEXPRESS"/>
+  <Environment name="portNumber" type="java.lang.String" value="1433"/>
+  <Environment name="dbName" type="java.lang.String" value="VNPlayers"/>
+  <Environment name="userID" type="java.lang.String" value="sa"/>
+  <Environment name="password" type="java.lang.String" value="@Chelsea2020"/>
+</Context>
